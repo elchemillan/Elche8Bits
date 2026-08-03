@@ -1,0 +1,6 @@
+{
+  "name": "DevPage - GitHub Portfolio Builder",
+  "description": "Crea y personaliza tu página web profesional vinculada en tiempo real a tu perfil y repositorios de GitHub con guía de despliegue en GitHub Pages.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
